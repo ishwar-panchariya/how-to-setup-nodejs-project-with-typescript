@@ -16,6 +16,8 @@ Next, run the following installation to proceed with a typescript
 npm i -g typescript
 
 npm i -D typescript ts-node nodemon
+
+npm i express --save
 ```
 **Note: Initially, nodemon is not mandatory. However, it is good to have.**
 
